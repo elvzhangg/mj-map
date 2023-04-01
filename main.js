@@ -18,7 +18,7 @@ require([
             type: "fill",
             outline: {
               color: [255, 255, 255, 0.2],
-              size: 1
+              size: 0.4
             }
           }
         ]
