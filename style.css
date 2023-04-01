@@ -59,9 +59,9 @@ body {
 }
 
 .small-circle {
-  width: 5px;
-  height: 5px;
-  background-color: rgb(254, 240, 217);
+  width: 2px;
+  height: 2px;
+  background-color: rgb(254, 500, 200);
 }
 
 .big-circle {
